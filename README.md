@@ -1,4 +1,4 @@
-# &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 💡 Tutorial Dart Programming <img src="https://avatars1.githubusercontent.com/u/1609975?s=200&v=4" width="25px" height="25px">
+# &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 💡 Tutorial Dart Programming <img src="https://avatars1.githubusercontent.com/u/1609975?s=200&v=4" width="25px" height="25px">
 
 ### ==== Deskripsi 
 Dart adalah bahasa pemrograman _OpenSource_ dengan pustaka dan waktu proses yang stabil, untuk membangun web, server, dan aplikasi seluler.
@@ -46,6 +46,10 @@ Dart adalah bahasa pemrograman _OpenSource_ dengan pustaka dan waktu proses yang
 
 ### ==== Path Materi 
 Path dibuat agar materi menjadi terstruktur sehingga mempermudah pembelajaran.
+
+
+### ==== Troubleshooting
+Jika mengalami kesulitan atau kurang memahami Dokumentasi, bisa berdiskusi di Grup Whatsapp Project Bareng Wibucode, dan untuk error coding bisa ditanyakan di [Kotakode](kotakode.com) atau [Stackoverflow](stackoverflow.com)
 
 
 
