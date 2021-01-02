@@ -7,7 +7,7 @@ Dart adalah bahasa pemrograman _OpenSource_ dengan pustaka dan waktu proses yang
 
 ### ==== Tasks Belajar 
 
-- [ ] Mengenal Dart
+- [x] Mengenal Dart
 - [ ] Karakteristik Dart
 - [ ] Dart Platform
 - [ ] Instalasi Dart
