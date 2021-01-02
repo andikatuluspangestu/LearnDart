@@ -9,7 +9,7 @@ Repository ini hanyalah catatan saya selama belajar Dart Programming.
 ### ✔️ Tasks Belajar 
 
 - [x] Mengenal Dart
-- [ ] Karakteristik Dart
+- [x] Karakteristik Dart
 - [ ] Dart Platform
 - [ ] Instalasi Dart
 - [ ] Membuat Program Pertama
