@@ -49,7 +49,7 @@ Path dibuat agar materi menjadi terstruktur sehingga mempermudah pembelajaran.
 
 
 ### ==== Troubleshooting
-Jika mengalami kesulitan atau kurang memahami Dokumentasi, bisa berdiskusi di Grup Whatsapp Project Bareng Wibucode, dan untuk error coding bisa ditanyakan di [Kotakode](kotakode.com) atau [Stackoverflow](stackoverflow.com)
+Jika mengalami kesulitan atau kurang memahami Dokumentasi atau untuk error coding bisa ditanyakan di [Kotakode](kotakode.com) atau [Stackoverflow](stackoverflow.com)
 
 
 
