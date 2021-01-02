@@ -2,6 +2,7 @@
 
 ### 📝 Deskripsi 
 Dart adalah bahasa pemrograman _OpenSource_ dengan pustaka dan waktu proses yang stabil, untuk membangun web, server, dan aplikasi seluler.
+Repository ini hanyalah catatan saya selama belajar Dart Programming.
 - Bahasa Dalam Repository ini : Bahasa Indonesia
 - Situs Resmi : [Web](https://dart.dev/ "Pergi ke Official Page") - [Repository](https://github.com/dart-lang "Pergi ke Github")
 
