@@ -1,11 +1,11 @@
-# &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 💡 Tutorial Dart Programming <img src="https://avatars1.githubusercontent.com/u/1609975?s=200&v=4" width="25px" height="25px">
+## &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 💡 Tutorial Dart Programming <img src="https://avatars1.githubusercontent.com/u/1609975?s=200&v=4" width="25px" height="25px">
 
-### ==== Deskripsi 
+### 📝 Deskripsi 
 Dart adalah bahasa pemrograman _OpenSource_ dengan pustaka dan waktu proses yang stabil, untuk membangun web, server, dan aplikasi seluler.
 - Bahasa Dalam Repository ini : Bahasa Indonesia
 - Situs Resmi : [Web](https://dart.dev/ "Pergi ke Official Page") - [Repository](https://github.com/dart-lang "Pergi ke Github")
 
-### ==== Tasks Belajar 
+### ✔️ Tasks Belajar 
 
 - [x] Mengenal Dart
 - [ ] Karakteristik Dart
@@ -44,14 +44,22 @@ Dart adalah bahasa pemrograman _OpenSource_ dengan pustaka dan waktu proses yang
 
 
 
-### ==== Path Materi 
+### 🗃️ Path Materi 
 Path dibuat agar materi menjadi terstruktur sehingga mempermudah pembelajaran.
 
 
-### ==== Troubleshooting
+### 🛠️ Troubleshooting
 Jika mengalami kesulitan atau kurang memahami Dokumentasi atau untuk error coding bisa ditanyakan di [Kotakode](kotakode.com) atau [Stackoverflow](stackoverflow.com)
 
+### 🙏 Thanks 
+- Allah SWT
+- My Parents
+- My Family
+- Nafatul Adistianingrum
+- Gun Gun Febrianza to Reference
+- All Friends
+- All Site Reference
+- All Youtube Channel Reference
 
-
-### ==== License 
+### 🔐 License 
 Repository Created by Andika Tulus Pangestu under *MIT License*
