@@ -8,7 +8,7 @@ Repository ini hanyalah catatan saya selama belajar Dart Programming.
 
 ### 🎒 Tools
 - Intellij IDEA [Download](https://www.jetbrains.com/idea/download/)
-- (Visual Studio Code)[https://code.visualstudio.com/download] + [Dart Ekstension](https://marketplace.visualstudio.com/items?itemName=Dart-Code.dart-code) (Disarakan)
+- [Visual Studio Code](https://code.visualstudio.com/download) + [Dart Ekstension](https://marketplace.visualstudio.com/items?itemName=Dart-Code.dart-code) (Disarankan)
 
 ### ✔️ Tasks Belajar 
 
