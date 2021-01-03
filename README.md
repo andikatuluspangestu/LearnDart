@@ -11,7 +11,7 @@ Repository ini hanyalah catatan saya selama belajar Dart Programming.
 - [x] Mengenal Dart
 - [x] Karakteristik Dart
 - [ ] Dart Platform
-- [ ] Instalasi Dart
+- [x] Instalasi Dart
 - [ ] Membuat Program Pertama
 - [ ] Dart Comments
 - [ ] Variable
