@@ -6,6 +6,10 @@ Repository ini hanyalah catatan saya selama belajar Dart Programming.
 - Bahasa Dalam Repository ini : Bahasa Indonesia
 - Situs Resmi : [Web](https://dart.dev/ "Pergi ke Official Page") - [Repository](https://github.com/dart-lang "Pergi ke Github")
 
+### 🎒 Tools
+- Intellij IDEA
+- Visual Studio Code + Dart Ektension (Recommended)
+
 ### ✔️ Tasks Belajar 
 
 - [x] Mengenal Dart
