@@ -1,4 +1,4 @@
-## 💡 Tutorial Dart Programming <img src="https://avatars1.githubusercontent.com/u/1609975?s=200&v=4" width="25px" height="25px">
+## 💡 Tutorial Bahasa Pemrogramman Dart <img src="https://avatars1.githubusercontent.com/u/1609975?s=200&v=4" width="25px" height="25px">
 
 ### 📝 Deskripsi 
 Dart adalah bahasa pemrograman _OpenSource_ dengan pustaka dan waktu proses yang stabil, untuk membangun web, server, dan aplikasi seluler.
@@ -7,8 +7,8 @@ Repository ini hanyalah catatan saya selama belajar Dart Programming.
 - Situs Resmi : [Web](https://dart.dev/ "Pergi ke Official Page") - [Repository](https://github.com/dart-lang "Pergi ke Github")
 
 ### 🎒 Tools
-- Intellij IDEA
-- Visual Studio Code + Dart Ektension (Recommended)
+- Intellij IDEA [Download](https://www.jetbrains.com/idea/download/)
+- (Visual Studio Code)[https://code.visualstudio.com/download] + [Dart Ekstension](https://marketplace.visualstudio.com/items?itemName=Dart-Code.dart-code) (Disarakan)
 
 ### ✔️ Tasks Belajar 
 
